@@ -1,4 +1,9 @@
-
+---
+layout: page
+title: Home
+id: home
+permalink: /
+---
 
 원문 페이지: https://wikidocs.net/book/9451
 
