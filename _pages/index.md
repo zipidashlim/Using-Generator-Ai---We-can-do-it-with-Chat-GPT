@@ -9,7 +9,7 @@ id: home
 permalink: /
 
 ---
-**<생성 AI 활용기 - 챗GPT(ChatGPT)로 이런 일도 할 수 있다!> 요약**
+**<생성 AI 활용기: 챗GPT(ChatGPT)로 이런 일도 할 수 있다!> 요약**
 
 원문 페이지: <a href="https://wikidocs.net/book/9451
 " target="_self">원본 보러 가기</a>
